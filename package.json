@@ -1,0 +1,22 @@
+{
+	"name": "midi",
+	"version": "0.0.1",
+	"description": "YouTube MIDI collection (freeware/shareware) for use in future projects.",
+	"main": "index.js",
+	"scripts": {
+		"json": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ShadowShahriar/midi.git"
+	},
+	"keywords": [
+		"MIDI"
+	],
+	"author": "S. Shahriar <shadowshahriar.dev@gmail.com>",
+	"license": "SEE LICENSE IN Readme.md",
+	"bugs": {
+		"url": "https://github.com/ShadowShahriar/midi/issues"
+	},
+	"homepage": "https://github.com/ShadowShahriar/midi#readme"
+}
