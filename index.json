@@ -1,7 +1,9 @@
 {
 	"directory": "media",
-	"length": 1,
+	"length": 3,
 	"entries": [
-		"keep.mid"
+		"pm_bts_permission_to_dance.mid",
+		"pt_shaun_way_back_home.mid",
+		"tfrm_thefatrat_jackpot.mid"
 	]
 }
