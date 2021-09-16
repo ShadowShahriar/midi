@@ -3,7 +3,7 @@
 const path = require('path')
 const fs = require('fs')
 
-const midi_dir = '.mid'
+const midi_dir = 'media'
 const json_file = 'index.json'
 
 const directory = path.resolve(__dirname, midi_dir)
