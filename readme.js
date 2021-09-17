@@ -9,7 +9,8 @@ const ReadmePath = path.resolve(__dirname, ReadmeFileName)
 
 const patterns = {
 	sources: '${{sources}}',
-	table: '${{table}}'
+	table: '${{table}}',
+	date: '${{lastUpdated}}'
 }
 
 const TableHeader = [
@@ -84,6 +85,9 @@ function generateReadme() {
 function start() {
 	addSourceLinks()
 	addSongsTable()
+
+	ReadmeMask = ReadmeMask.replace(patterns.date, new Date())
+
 	generateReadme()
 }
 
