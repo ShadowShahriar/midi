@@ -19,6 +19,7 @@ for (const entry of entries) {
 }
 
 const object = {
+	lastUpdated: new Date(),
 	directory: midi_dir,
 	length: array.length,
 	entries: array
@@ -38,7 +39,7 @@ try {
 		mode: 0o666
 	})
 
-	console.log('\n', '🎉 Wrote to JSON')
+	console.log('\n', '🎉 Generated index.json')
 } catch (e) {
 	console.log(e)
 }

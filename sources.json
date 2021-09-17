@@ -1,0 +1,92 @@
+{
+	"sources": {
+		"AsdKeys": "https://www.youtube.com/c/AsdKeys",
+		"Cosmic PIANO": "https://www.youtube.com/c/CosmicPIANO",
+		"Gluton": "https://www.youtube.com/c/GlutonOfficial",
+		"Allerlei von Nicolai - No Copyright Music": "https://www.youtube.com/channel/UC_bcboyEwTxpEyM-fuCjLkA",
+		"Free Piano Tutorials": "https://www.youtube.com/channel/UCBlE6pjsULp5gA7vl8-4F4A",
+		"FMM Music": "https://www.youtube.com/channel/UC6wnnyFjmPc4KJU1n_mFBDw",
+		"Kendrik Kanata": "https://www.youtube.com/channel/UCG3c_BxX3MmCIQnEjkJiX8Q",
+		"Misha Kokh": "https://www.youtube.com/c/MishaKokh",
+		"sakura swann": "https://www.youtube.com/user/sevenseven31",
+		"tastyFrMusic": "https://www.youtube.com/channel/UC4Z7BlEROblloYmTKEU1Zew",
+		"PIANO MIDI": "https://www.youtube.com/channel/UC3mb8-iIHpSEE8aCzMDgeTg"
+	},
+
+	"songs": [
+		{
+			"title": "Way Back Home (Sam Feldt Edit)",
+			"artists": {
+				"SHAUN": "https://www.youtube.com/c/SHAUNthehuman",
+				"Conor Maynard": "https://www.youtube.com/c/ConorMaynard"
+			},
+			"source": {
+				"Official Lyric Video": "https://youtu.be/amOSaNX7KJg",
+				"WaveMusic (Lyrics)": "https://youtu.be/1kehqCLudyg"
+			},
+			"midi": {
+				"MuseScore": ["https://musescore.org", "Converted with"]
+			},
+			"sheets": {
+				"Piano Tutorial": ["https://youtu.be/3Sp4dW-JdJE", "by"]
+			}
+		},
+		{
+			"title": "Jackpot (Jackpot EP Track 1)",
+			"artists": {
+				"TheFatRat": "https://www.youtube.com/c/TheFatRat"
+			},
+			"source": {
+				"Official Audio": "https://youtu.be/kL8CyVqzmkc"
+			},
+			"midi": {
+				"tastyFrMusic": ["https://youtu.be/A13Sa_bIuKY", "by"]
+			},
+			"sheets": true
+		},
+		{
+			"title": "Permission to Dance",
+			"artists": {
+				"BTS (방탄소년단)": null,
+				"HYBE LABELS": "https://www.youtube.com/c/HYBELABELS"
+			},
+			"source": {
+				"Official Music Video": "https://youtu.be/CuklIb9d3fI"
+			},
+			"midi": {
+				"PIANO MIDI": ["https://youtu.be/7MHfb9HB3GA", "by"]
+			},
+			"sheets": false
+		},
+		{
+			"title": "Dynamite",
+			"artists": {
+				"BTS (방탄소년단)": null,
+				"HYBE LABELS": "https://www.youtube.com/c/HYBELABELS"
+			},
+			"source": {
+				"Official Music Video": "https://youtu.be/gdZLi9oWNZg"
+			},
+			"midi": {
+				"Free Piano Tutorials": ["https://youtu.be/KyYaCtLsAAk", "by"]
+			},
+			"sheets": true
+		},
+		{
+			"title": "Memories",
+			"artists": {
+				"Maroon 5": "https://www.youtube.com/user/Maroon5"
+			},
+			"source": {
+				"Official Music Video": "https://youtu.be/SlPhMPnQ58k"
+			},
+			"midi": {
+				"Free Piano Tutorials": ["https://youtu.be/TdacNfWymGQ", "by"],
+				"Cosmic PIANO": ["https://youtu.be/5OwchavoI0s", "by"],
+				"Kendrik Kanata": ["https://youtu.be/YBGUnu6Iog8", "by"],
+				"Misha Kokh": ["https://youtu.be/_3MNRYZWpmU", "by"]
+			},
+			"sheets": true
+		}
+	]
+}

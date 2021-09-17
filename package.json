@@ -1,10 +1,11 @@
 {
 	"name": "midi",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "YouTube MIDI collection (freeware/shareware) for use in future projects.",
 	"main": "index.js",
 	"scripts": {
-		"json": "node index.js"
+		"list": "node list.js",
+		"readme": "node readme.js"
 	},
 	"repository": {
 		"type": "git",
