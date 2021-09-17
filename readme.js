@@ -37,7 +37,8 @@ function addSongsTable() {
 		let artists = song.artists
 		let artistsarray = []
 		for (artist in artists) {
-			artistsarray.push(`[${artist}](${artists[artist]})`)
+			if (!artists[artist]) artistsarray.push(artist)
+			else artistsarray.push(`[${artist}](${artists[artist]})`)
 		}
 
 		let sources = song.source
@@ -57,7 +58,7 @@ function addSongsTable() {
 		let sheetsarray = []
 
 		if (typeof sheets === 'boolean') {
-			sheetsresolve = sheets ? '✅ Included' : '❌ N/A'
+			sheetsresolve = sheets ? '✅ Available' : '❌ N/A'
 		} else {
 			for (sheet in sheets) {
 				sheetsarray.push(`_${sheets[sheet][1]}_ [${sheet}](${sheets[sheet][0]})`)
