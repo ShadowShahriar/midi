@@ -11,7 +11,8 @@
 		"sakura swann": "https://www.youtube.com/user/sevenseven31",
 		"tastyFrMusic": "https://www.youtube.com/channel/UC4Z7BlEROblloYmTKEU1Zew",
 		"PIANO MIDI": "https://www.youtube.com/channel/UC3mb8-iIHpSEE8aCzMDgeTg",
-		"Piano Tutorial": "https://www.youtube.com/channel/UCMlZ4aOHBJnPGJAM5s-7b4w"
+		"Piano Tutorial": "https://www.youtube.com/channel/UCMlZ4aOHBJnPGJAM5s-7b4w",
+		"BGP Harmony": "https://www.youtube.com/c/BGPHarmony"
 	},
 
 	"songs": [
@@ -86,6 +87,48 @@
 				"Cosmic PIANO": ["https://youtu.be/5OwchavoI0s", "by"],
 				"Kendrik Kanata": ["https://youtu.be/YBGUnu6Iog8", "by"],
 				"Misha Kokh": ["https://youtu.be/_3MNRYZWpmU", "by"]
+			},
+			"sheets": true
+		},
+		{
+			"title": "Firefly pt II",
+			"artists": {
+				"Jim Yosef": "https://www.youtube.com/c/JimYosef",
+				"STARLYTE": "https://www.youtube.com/c/Starlyte"
+			},
+			"source": {
+				"Official Music Video": "https://youtu.be/0fB4-xDgVc4",
+				"Official NCS Release": "https://youtu.be/Q7E4Hiqe1s4"
+			},
+			"midi": {
+				"BGP Harmony": ["https://youtu.be/sBnPmRPAyBI", "by"]
+			},
+			"sheets": true
+		},
+		{
+			"title": "Where We Started",
+			"artists": {
+				"Lost Sky": "https://soundcloud.com/lostskydiary",
+				"Jex": "https://soundcloud.com/jordanmillermusic-1"
+			},
+			"source": {
+				"Official NCS Release": "https://youtu.be/U9pGr6KMdyg"
+			},
+			"midi": {
+				"FMM Music": ["https://youtu.be/Kg8zA6sM85U", "by"]
+			},
+			"sheets": false
+		},
+		{
+			"title": "Sparkle (from: Your Name)",
+			"artists": {
+				"Your Name (album)": "https://en.wikipedia.org/wiki/Your_Name_(album)"
+			},
+			"source": {
+				"English Cover": "https://youtu.be/0FW6ddWwhy0"
+			},
+			"midi": {
+				"Cosmic PIANO": ["https://youtu.be/AbHJ1BokCnI", "by"]
 			},
 			"sheets": true
 		}
