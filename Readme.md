@@ -1,5 +1,5 @@
 <!-- @format -->
-<!-- @lastUpdated Fri Sep 17 2021 15:12:59 GMT+0000 (Coordinated Universal Time) -->
+<!-- @lastUpdated Sat Sep 18 2021 20:43:06 GMT+0000 (Coordinated Universal Time) -->
 
 # MIDI files
 
@@ -19,6 +19,7 @@ These are the MIDI files of some of my favorite songs I'm using to experiment wi
 - [tastyFrMusic](https://www.youtube.com/channel/UC4Z7BlEROblloYmTKEU1Zew)
 - [PIANO MIDI](https://www.youtube.com/channel/UC3mb8-iIHpSEE8aCzMDgeTg)
 - [Piano Tutorial](https://www.youtube.com/channel/UCMlZ4aOHBJnPGJAM5s-7b4w)
+- [BGP Harmony](https://www.youtube.com/c/BGPHarmony)
 
 ## Songs
 
@@ -29,3 +30,6 @@ These are the MIDI files of some of my favorite songs I'm using to experiment wi
 | Permission to Dance | BTS (방탄소년단)<br>[HYBE LABELS](https://www.youtube.com/c/HYBELABELS) | [Official Music Video](https://youtu.be/CuklIb9d3fI) | _by_ [PIANO MIDI](https://youtu.be/7MHfb9HB3GA) | ❌ N/A |
 | Dynamite | BTS (방탄소년단)<br>[HYBE LABELS](https://www.youtube.com/c/HYBELABELS) | [Official Music Video](https://youtu.be/gdZLi9oWNZg) | _by_ [Free Piano Tutorials](https://youtu.be/KyYaCtLsAAk) | ✅ Available |
 | Memories | [Maroon 5](https://www.youtube.com/user/Maroon5) | [Official Music Video](https://youtu.be/SlPhMPnQ58k) | _by_ [Free Piano Tutorials](https://youtu.be/TdacNfWymGQ)<br>_by_ [Cosmic PIANO](https://youtu.be/5OwchavoI0s)<br>_by_ [Kendrik Kanata](https://youtu.be/YBGUnu6Iog8)<br>_by_ [Misha Kokh](https://youtu.be/_3MNRYZWpmU) | ✅ Available |
+| Firefly pt II | [Jim Yosef](https://www.youtube.com/c/JimYosef)<br>[STARLYTE](https://www.youtube.com/c/Starlyte) | [Official Music Video](https://youtu.be/0fB4-xDgVc4)<br>[Official NCS Release](https://youtu.be/Q7E4Hiqe1s4) | _by_ [BGP Harmony](https://youtu.be/sBnPmRPAyBI) | ✅ Available |
+| Where We Started | [Lost Sky](https://soundcloud.com/lostskydiary)<br>[Jex](https://soundcloud.com/jordanmillermusic-1) | [Official NCS Release](https://youtu.be/U9pGr6KMdyg) | _by_ [FMM Music](https://youtu.be/Kg8zA6sM85U) | ❌ N/A |
+| Sparkle (from: Your Name) | [Your Name (album)](https://en.wikipedia.org/wiki/Your_Name_(album)) | [English Cover](https://youtu.be/0FW6ddWwhy0) | _by_ [Cosmic PIANO](https://youtu.be/AbHJ1BokCnI) | ✅ Available |
