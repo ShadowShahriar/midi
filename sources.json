@@ -289,6 +289,104 @@
 				"Cosmic PIANO": ["https://youtu.be/HQozceVazhI", "by"]
 			},
 			"sheets": false
+		},
+		{
+			"title": "We'll Meet Again",
+			"artists": {
+				"TheFatRat": "https://www.youtube.com/c/TheFatRat",
+				"Laura Brehm": "https://www.youtube.com/user/laurabrehm"
+			},
+			"source": {
+				"Official Audio": "https://youtu.be/hJqYc62NCKo",
+				"Official Lyric Video": "https://youtu.be/FmZRu4VkV44"
+			},
+			"midi": {
+				"AsdKeys": ["https://youtu.be/L_uwufdfKLg", "by"]
+			},
+			"sheets": false
+		},
+		{
+			"title": "See You Again",
+			"artists": {
+				"Wiz Khalifa": "https://www.youtube.com/c/wizkhalifa",
+				"Charlie Puth": "https://www.youtube.com/c/charlieputh"
+			},
+			"source": {
+				"Official Music Video": "https://youtu.be/RgKAFK5djSk"
+			},
+			"midi": {
+				"Cosmic PIANO": ["https://youtu.be/GBdqm09XWbQ", "by"]
+			},
+			"sheets": false
+		},
+		{
+			"title": "Melody",
+			"artists": {
+				"Cadmium": "https://www.youtube.com/c/Cadmiumsound",
+				"Jon Becker": "https://www.youtube.com/c/JonBeckerOfficial"
+			},
+			"source": {
+				"Official Audio (Cadmium)": "https://youtu.be/9S5b4WlYV7s",
+				"Frequency Music Lyric Video": "https://youtu.be/9MiFRbymQXQ"
+			},
+			"midi": {
+				"FMM Music": ["https://youtu.be/QwKbNj0OJSg", "by"],
+				"Allerlei von Nicolai - No Copyright Music": ["https://youtu.be/9PbxTdTkNnc", "by"]
+			},
+			"sheets": false
+		},
+		{
+			"title": "Symphony",
+			"artists": {
+				"Clean Bandit": "https://www.youtube.com/user/cleanbandit"
+			},
+			"source": {
+				"Official Music Video": "https://youtu.be/aatr_2MstrI"
+			},
+			"midi": {
+				"Cosmic PIANO": ["https://youtu.be/Lh8A9Pugwgw", "by"]
+			},
+			"sheets": false
+		},
+		{
+			"title": "Faded",
+			"artists": {
+				"Alan Walker": "https://www.youtube.com/c/Alanwalkermusic"
+			},
+			"source": {
+				"Official Music Video": "https://youtu.be/60ItHLz5WEA"
+			},
+			"midi": {
+				"Free Piano Tutorials": ["https://youtu.be/ADiGiK75FMM", "by"]
+			},
+			"sheets": true
+		},
+		{
+			"title": "Skyline",
+			"artists": {
+				"Kovan": "https://www.youtube.com/c/itskovan",
+				"Electro-Light": "https://www.youtube.com/c/ElectroLightOfficial"
+			},
+			"source": {
+				"Official NCS Release": "https://youtu.be/FseAiTb8Se0"
+			},
+			"midi": {
+				"AsdKeys": ["https://youtu.be/8MmOMEcZrz4", "by"]
+			},
+			"sheets": false
+		},
+		{
+			"title": "Roar",
+			"artists": {
+				"Katy Perry": "https://www.youtube.com/c/KatyPerry"
+			},
+			"source": {
+				"Official Music Video": "https://youtu.be/CevxZvSJLk8"
+			},
+			"midi": {
+				"Free Piano Tutorials": ["https://youtu.be/xOj7uhi3w80", "by"]
+			},
+			"sheets": true
 		}
 	]
 }
