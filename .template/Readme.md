@@ -21,7 +21,7 @@ If you encounter freeware or shareware midi, you can contribute to this project.
 
 You also need to put an entry to `sources.json` file to save the original sources. The JSON file is structured like the one below.
 
-```JSON
+```JS
 {
 	"sources": {
 		[key]: [value],
@@ -35,7 +35,7 @@ You also need to put an entry to `sources.json` file to save the original source
 
 Use the following object shape in the `songs` key:
 
-```JSON
+```JS
 {
 	"songs": [
 				{
@@ -76,7 +76,7 @@ Use the following object shape in the `songs` key:
 
 If the source doesn't exist in the `sources` key, you might put an entry after its name:
 
-```JSON
+```JS
 {
 	"sources": {
 		"${provider_or_channel_name}": "${link}",
