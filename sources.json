@@ -131,6 +131,21 @@
 				"Cosmic PIANO": ["https://youtu.be/AbHJ1BokCnI", "by"]
 			},
 			"sheets": true
+		},
+		{
+			"title": "You",
+			"artists": {
+				"Alex Skrindo": "https://www.youtube.com/c/AlexSkrindo",
+				"Axol": "https://www.youtube.com/c/Axolmusic"
+			},
+			"source": {
+				"Official Audio": "https://youtu.be/jWE4FSlECUg",
+				"Official NCS Release": "https://youtu.be/sA_p0rQtDXE"
+			},
+			"midi": {
+				"Gluton": ["https://youtu.be/V7dy35ovtj0", "by"]
+			},
+			"sheets": false
 		}
 	]
 }
