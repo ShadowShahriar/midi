@@ -23,13 +23,13 @@ You also need to put an entry to `sources.json` file to save the original source
 
 ```JS
 {
-	"sources": {
-		[key]: [value],
-		...
-	},
-	"songs": [
-		...
-	]
+  "sources": {
+    [key]: [value],
+    ...
+  },
+  "songs": [
+    ...
+  ]
 }
 ```
 
@@ -37,32 +37,32 @@ Use the following object shape in the `songs` key:
 
 ```JS
 {
-	"songs": [
-				{
-			"title": "${song_title}",
-			"artists": {
-				"${artist_name_1}": "${artist_link_1}",
-				["${artist_name_2}": "${artist_link_2}"],
-				...
-			},
-			"source": {
-				"Official Lyric Video": "${link}",
-				["Official Music Video": "${link}"],
-				["Official Audio": "${link}"],
-				["Official NCS Release": "${link}"],
-				["${provider_or_channel_name}": "${link}"],
-				...
-			},
-			"midi": {
-				"${provider_or_channel_name}": ["${link}", "by"],
-				...
-			},
-			"sheets": {
-				"${provider_or_channel_name}": ["${link}", "by"],
-				...
-			}
-		}
-	]
+  "songs": [
+    {
+      "title": "${song_title}",
+      "artists": {
+        "${artist_name_1}": "${artist_link_1}",
+        ["${artist_name_2}": "${artist_link_2}"],
+        ...
+      },
+      "source": {
+        "Official Lyric Video": "${link}",
+        ["Official Music Video": "${link}"],
+        ["Official Audio": "${link}"],
+        ["Official NCS Release": "${link}"],
+        ["${provider_or_channel_name}": "${link}"],
+        ...
+      },
+     "midi": {
+        "${provider_or_channel_name}": ["${link}", "by"],
+        ...
+      },
+     "sheets": {
+        "${provider_or_channel_name}": ["${link}", "by"],
+        ...
+      }
+    }
+  ]
 }
 ```
 
@@ -78,10 +78,10 @@ If the source doesn't exist in the `sources` key, you might put an entry after i
 
 ```JS
 {
-	"sources": {
-		"${provider_or_channel_name}": "${link}",
-		...
-	}
+  "sources": {
+    "${provider_or_channel_name}": "${link}",
+    ...
+  }
 }
 ```
 
@@ -99,5 +99,6 @@ ${source_acronym}_${artists}_${title}.mid
 
 -   The source code is licensed under [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
 -   MIDI files (`media/*.mid`) belong to their original authors as listed in the [Songs table](#songs). I am using these for a [Tone.js][1] project for educational purposes that falls under the terms of [fair use](https://en.wikipedia.org/wiki/Fair_use).
+-   Always read the video description of each YouTube video listed to know how the content should be treated. Some YouTube channels (like [Allerlei von Nicolai - No Copyright Music](https://www.youtube.com/channel/UC_bcboyEwTxpEyM-fuCjLkA)) published their piano composition under [Creative Commons Attribution License](https://www.youtube.com/t/creative_commons), although the original song can be subject to copyright.
 
 [1]: https://github.com/Tonejs/Tone.js
