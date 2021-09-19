@@ -12,7 +12,8 @@
 		"tastyFrMusic": "https://www.youtube.com/channel/UC4Z7BlEROblloYmTKEU1Zew",
 		"PIANO MIDI": "https://www.youtube.com/channel/UC3mb8-iIHpSEE8aCzMDgeTg",
 		"Piano Tutorial": "https://www.youtube.com/channel/UCMlZ4aOHBJnPGJAM5s-7b4w",
-		"BGP Harmony": "https://www.youtube.com/c/BGPHarmony"
+		"BGP Harmony": "https://www.youtube.com/c/BGPHarmony",
+		"ShinkoNet": "https://www.youtube.com/c/ShinkoNet"
 	},
 
 	"songs": [
@@ -144,6 +145,148 @@
 			},
 			"midi": {
 				"Gluton": ["https://youtu.be/V7dy35ovtj0", "by"]
+			},
+			"sheets": false
+		},
+		{
+			"title": "Never Enough (The Greatest Showman)",
+			"artists": {
+				"Loren Allred": "https://www.youtube.com/c/lorenallred"
+			},
+			"source": {
+				"Official Audio": "https://youtu.be/fKEMBn_JdCE",
+				"Official Lyric Video": "https://youtu.be/rQWZK5U233s",
+				"The Greatest Showman OST": "https://www.imdb.com/title/tt1485796/soundtrack/?ref_=tt_trv_snd"
+			},
+			"midi": {
+				"Free Piano Tutorials": ["https://youtu.be/N23HHa0LJ5U", "by"]
+			},
+			"sheets": true
+		},
+		{
+			"title": "A Million Dreams (The Greatest Showman)",
+			"artists": {
+				"Ziv Zaifman": "https://www.instagram.com/zivzaifman",
+				"Hugh Jackman": "https://www.instagram.com/thehughjackman",
+				"Michelle Williams": "https://en.wikipedia.org/wiki/Michelle_Williams_(actress)"
+			},
+			"source": {
+				"Official Audio": "https://youtu.be/pSQk-4fddDI",
+				"The Greatest Showman OST": "https://www.imdb.com/title/tt1485796/soundtrack/?ref_=tt_trv_snd"
+			},
+			"midi": {
+				"Free Piano Tutorials": ["https://youtu.be/fGQ_IgsNz_U", "by"]
+			},
+			"sheets": true
+		},
+		{
+			"title": "Something Just Like This",
+			"artists": {
+				"The Chainsmokers": "https://www.youtube.com/c/THECHAINSMOKERS",
+				"Coldplay": "https://www.youtube.com/c/coldplay"
+			},
+			"source": {
+				"Official Music Video": "https://youtu.be/FM7MFYoylVs"
+			},
+			"midi": {
+				"Cosmic PIANO": ["https://youtu.be/2vZml4LEnPo", "by"]
+			},
+			"sheets": true
+		},
+		{
+			"title": "Unity",
+			"artists": {
+				"TheFatRat": "https://www.youtube.com/c/TheFatRat"
+			},
+			"source": {
+				"Official Audio": "https://youtu.be/n8X9_MgEdCg"
+			},
+			"midi": {
+				"ShinkoNet": ["https://youtu.be/5fVEh-WmQP0", "by"]
+			},
+			"sheets": false
+		},
+		{
+			"title": "Rogue",
+			"artists": {
+				"Jim Yosef": "https://www.youtube.com/c/JimYosef"
+			},
+			"source": {
+				"Official Audio": "https://youtu.be/3uairflAcvE"
+			},
+			"midi": {
+				"Allerlei von Nicolai - No Copyright Music": ["https://youtu.be/pR19Z4_jpLI", "by"]
+			},
+			"sheets": false
+		},
+		{
+			"title": "Love Yourself",
+			"artists": {
+				"Justin Bieber": "https://www.youtube.com/c/justinbieber"
+			},
+			"source": {
+				"Official Music Video": "https://youtu.be/oyEuk8j8imI"
+			},
+			"midi": {
+				"sakura swann": ["https://youtu.be/22Ps-PGBniI", "by"]
+			},
+			"sheets": false
+		},
+		{
+			"title": "Sad Song",
+			"artists": {
+				"We The Kings": "https://www.youtube.com/user/WeTheKings"
+			},
+			"source": {
+				"Official Lyric Video": "https://youtu.be/BZsXcc_tC-o",
+				"Official Music Video": "https://youtu.be/UwTD0ZMZ1T0"
+			},
+			"midi": {
+				"Free Piano Tutorials": ["https://youtu.be/D2WOWFi_Oxw", "by"]
+			},
+			"sheets": true
+		},
+		{
+			"title": "You Say",
+			"artists": {
+				"Lauren Daigle": "https://www.youtube.com/c/laurendaiglemusic"
+			},
+			"source": {
+				"Official Music Video": "https://youtu.be/sIaT8Jl2zpI"
+			},
+			"midi": {
+				"Free Piano Tutorials": ["https://youtu.be/gUuZIBKlbPU", "by"]
+			},
+			"sheets": true
+		},
+		{
+			"title": "Can't Wait",
+			"artists": {
+				"Jim Yosef": "https://www.youtube.com/c/JimYosef",
+				"Anna Yvette": "https://www.youtube.com/c/AnnaYvette"
+			},
+			"source": {
+				"Official Audio (Jim Yosef)": "https://youtu.be/k6EV5ZBjceI",
+				"Official Audio (Anna Yvette)": "https://youtu.be/3XtG3FiC7MQ",
+				"Official NCS Release": "https://youtu.be/MqUCDzom5Xw"
+			},
+			"midi": {
+				"Gluton": ["https://youtu.be/0qyOH7Xt0pk", "by"]
+			},
+			"sheets": false
+		},
+		{
+			"title": "Fly Away",
+			"artists": {
+				"TheFatRat": "https://www.youtube.com/c/TheFatRat",
+				"Anjulie": "https://www.youtube.com/c/anjuliemusic"
+			},
+			"source": {
+				"Official Audio": "https://youtu.be/cMg8KaMdDYo"
+			},
+			"midi": {
+				"AsdKeys": ["https://youtu.be/PufbzTlHfWY", "by"],
+				"Cosmic PIANO": ["https://youtu.be/HQozceVazhI", "by"]
 			},
 			"sheets": false
 		}
