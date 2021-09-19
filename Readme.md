@@ -1,5 +1,5 @@
 <!-- @format -->
-<!-- @lastUpdated Sun Sep 19 2021 10:52:09 GMT+0000 (Coordinated Universal Time) -->
+<!-- @lastUpdated Sun Sep 19 2021 15:55:42 GMT+0000 (Coordinated Universal Time) -->
 
 # MIDI files
 
@@ -20,6 +20,7 @@ These are the MIDI files of some of my favorite songs I'm using to experiment wi
 - [PIANO MIDI](https://www.youtube.com/channel/UC3mb8-iIHpSEE8aCzMDgeTg)
 - [Piano Tutorial](https://www.youtube.com/channel/UCMlZ4aOHBJnPGJAM5s-7b4w)
 - [BGP Harmony](https://www.youtube.com/c/BGPHarmony)
+- [ShinkoNet](https://www.youtube.com/c/ShinkoNet)
 
 ## Songs
 
@@ -34,6 +35,16 @@ These are the MIDI files of some of my favorite songs I'm using to experiment wi
 | Where We Started | [Lost Sky](https://soundcloud.com/lostskydiary)<br>[Jex](https://soundcloud.com/jordanmillermusic-1) | [Official NCS Release](https://youtu.be/U9pGr6KMdyg) | _by_ [FMM Music](https://youtu.be/Kg8zA6sM85U) | ❌ N/A |
 | Sparkle (from: Your Name) | [Your Name (album)](https://en.wikipedia.org/wiki/Your_Name_(album)) | [English Cover](https://youtu.be/0FW6ddWwhy0) | _by_ [Cosmic PIANO](https://youtu.be/AbHJ1BokCnI) | ✅ Available |
 | You | [Alex Skrindo](https://www.youtube.com/c/AlexSkrindo)<br>[Axol](https://www.youtube.com/c/Axolmusic) | [Official Audio](https://youtu.be/jWE4FSlECUg)<br>[Official NCS Release](https://youtu.be/sA_p0rQtDXE) | _by_ [Gluton](https://youtu.be/V7dy35ovtj0) | ❌ N/A |
+| Never Enough (The Greatest Showman) | [Loren Allred](https://www.youtube.com/c/lorenallred) | [Official Audio](https://youtu.be/fKEMBn_JdCE)<br>[Official Lyric Video](https://youtu.be/rQWZK5U233s)<br>[The Greatest Showman OST](https://www.imdb.com/title/tt1485796/soundtrack/?ref_=tt_trv_snd) | _by_ [Free Piano Tutorials](https://youtu.be/N23HHa0LJ5U) | ✅ Available |
+| A Million Dreams (The Greatest Showman) | [Ziv Zaifman](https://www.instagram.com/zivzaifman)<br>[Hugh Jackman](https://www.instagram.com/thehughjackman)<br>[Michelle Williams](https://en.wikipedia.org/wiki/Michelle_Williams_(actress)) | [Official Audio](https://youtu.be/pSQk-4fddDI)<br>[The Greatest Showman OST](https://www.imdb.com/title/tt1485796/soundtrack/?ref_=tt_trv_snd) | _by_ [Free Piano Tutorials](https://youtu.be/fGQ_IgsNz_U) | ✅ Available |
+| Something Just Like This | [The Chainsmokers](https://www.youtube.com/c/THECHAINSMOKERS)<br>[Coldplay](https://www.youtube.com/c/coldplay) | [Official Music Video](https://youtu.be/FM7MFYoylVs) | _by_ [Cosmic PIANO](https://youtu.be/2vZml4LEnPo) | ✅ Available |
+| Unity | [TheFatRat](https://www.youtube.com/c/TheFatRat) | [Official Audio](https://youtu.be/n8X9_MgEdCg) | _by_ [ShinkoNet](https://youtu.be/5fVEh-WmQP0) | ❌ N/A |
+| Rogue | [Jim Yosef](https://www.youtube.com/c/JimYosef) | [Official Audio](https://youtu.be/3uairflAcvE) | _by_ [Allerlei von Nicolai - No Copyright Music](https://youtu.be/pR19Z4_jpLI) | ❌ N/A |
+| Love Yourself | [Justin Bieber](https://www.youtube.com/c/justinbieber) | [Official Music Video](https://youtu.be/oyEuk8j8imI) | _by_ [sakura swann](https://youtu.be/22Ps-PGBniI) | ❌ N/A |
+| Sad Song | [We The Kings](https://www.youtube.com/user/WeTheKings) | [Official Lyric Video](https://youtu.be/BZsXcc_tC-o)<br>[Official Music Video](https://youtu.be/UwTD0ZMZ1T0) | _by_ [Free Piano Tutorials](https://youtu.be/D2WOWFi_Oxw) | ✅ Available |
+| You Say | [Lauren Daigle](https://www.youtube.com/c/laurendaiglemusic) | [Official Music Video](https://youtu.be/sIaT8Jl2zpI) | _by_ [Free Piano Tutorials](https://youtu.be/gUuZIBKlbPU) | ✅ Available |
+| Can't Wait | [Jim Yosef](https://www.youtube.com/c/JimYosef)<br>[Anna Yvette](https://www.youtube.com/c/AnnaYvette) | [Official Audio (Jim Yosef)](https://youtu.be/k6EV5ZBjceI)<br>[Official Audio (Anna Yvette)](https://youtu.be/3XtG3FiC7MQ)<br>[Official NCS Release](https://youtu.be/MqUCDzom5Xw) | _by_ [Gluton](https://youtu.be/0qyOH7Xt0pk) | ❌ N/A |
+| Fly Away | [TheFatRat](https://www.youtube.com/c/TheFatRat)<br>[Anjulie](https://www.youtube.com/c/anjuliemusic) | [Official Audio](https://youtu.be/cMg8KaMdDYo) | _by_ [AsdKeys](https://youtu.be/PufbzTlHfWY)<br>_by_ [Cosmic PIANO](https://youtu.be/HQozceVazhI) | ❌ N/A |
 
 # Contribute
 
@@ -45,13 +56,13 @@ You also need to put an entry to `sources.json` file to save the original source
 
 ```JS
 {
-	"sources": {
-		[key]: [value],
-		...
-	},
-	"songs": [
-		...
-	]
+  "sources": {
+    [key]: [value],
+    ...
+  },
+  "songs": [
+    ...
+  ]
 }
 ```
 
@@ -59,32 +70,32 @@ Use the following object shape in the `songs` key:
 
 ```JS
 {
-	"songs": [
-				{
-			"title": "${song_title}",
-			"artists": {
-				"${artist_name_1}": "${artist_link_1}",
-				["${artist_name_2}": "${artist_link_2}"],
-				...
-			},
-			"source": {
-				"Official Lyric Video": "${link}",
-				["Official Music Video": "${link}"],
-				["Official Audio": "${link}"],
-				["Official NCS Release": "${link}"],
-				["${provider_or_channel_name}": "${link}"],
-				...
-			},
-			"midi": {
-				"${provider_or_channel_name}": ["${link}", "by"],
-				...
-			},
-			"sheets": {
-				"${provider_or_channel_name}": ["${link}", "by"],
-				...
-			}
-		}
-	]
+  "songs": [
+    {
+      "title": "${song_title}",
+      "artists": {
+        "${artist_name_1}": "${artist_link_1}",
+        ["${artist_name_2}": "${artist_link_2}"],
+        ...
+      },
+      "source": {
+        "Official Lyric Video": "${link}",
+        ["Official Music Video": "${link}"],
+        ["Official Audio": "${link}"],
+        ["Official NCS Release": "${link}"],
+        ["${provider_or_channel_name}": "${link}"],
+        ...
+      },
+     "midi": {
+        "${provider_or_channel_name}": ["${link}", "by"],
+        ...
+      },
+     "sheets": {
+        "${provider_or_channel_name}": ["${link}", "by"],
+        ...
+      }
+    }
+  ]
 }
 ```
 
@@ -100,10 +111,10 @@ If the source doesn't exist in the `sources` key, you might put an entry after i
 
 ```JS
 {
-	"sources": {
-		"${provider_or_channel_name}": "${link}",
-		...
-	}
+  "sources": {
+    "${provider_or_channel_name}": "${link}",
+    ...
+  }
 }
 ```
 
@@ -121,5 +132,6 @@ ${source_acronym}_${artists}_${title}.mid
 
 -   The source code is licensed under [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
 -   MIDI files (`media/*.mid`) belong to their original authors as listed in the [Songs table](#songs). I am using these for a [Tone.js][1] project for educational purposes that falls under the terms of [fair use](https://en.wikipedia.org/wiki/Fair_use).
+-   Always read the video description of each YouTube video listed to know how the content should be treated. Some YouTube channels (like [Allerlei von Nicolai - No Copyright Music](https://www.youtube.com/channel/UC_bcboyEwTxpEyM-fuCjLkA)) published their piano composition under [Creative Commons Attribution License](https://www.youtube.com/t/creative_commons), although the original song can be subject to copyright.
 
 [1]: https://github.com/Tonejs/Tone.js
