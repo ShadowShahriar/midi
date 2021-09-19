@@ -1,5 +1,5 @@
 <!-- @format -->
-<!-- @lastUpdated Sun Sep 19 2021 15:55:42 GMT+0000 (Coordinated Universal Time) -->
+<!-- @lastUpdated Sun Sep 19 2021 18:36:23 GMT+0000 (Coordinated Universal Time) -->
 
 # MIDI files
 
@@ -45,6 +45,13 @@ These are the MIDI files of some of my favorite songs I'm using to experiment wi
 | You Say | [Lauren Daigle](https://www.youtube.com/c/laurendaiglemusic) | [Official Music Video](https://youtu.be/sIaT8Jl2zpI) | _by_ [Free Piano Tutorials](https://youtu.be/gUuZIBKlbPU) | ✅ Available |
 | Can't Wait | [Jim Yosef](https://www.youtube.com/c/JimYosef)<br>[Anna Yvette](https://www.youtube.com/c/AnnaYvette) | [Official Audio (Jim Yosef)](https://youtu.be/k6EV5ZBjceI)<br>[Official Audio (Anna Yvette)](https://youtu.be/3XtG3FiC7MQ)<br>[Official NCS Release](https://youtu.be/MqUCDzom5Xw) | _by_ [Gluton](https://youtu.be/0qyOH7Xt0pk) | ❌ N/A |
 | Fly Away | [TheFatRat](https://www.youtube.com/c/TheFatRat)<br>[Anjulie](https://www.youtube.com/c/anjuliemusic) | [Official Audio](https://youtu.be/cMg8KaMdDYo) | _by_ [AsdKeys](https://youtu.be/PufbzTlHfWY)<br>_by_ [Cosmic PIANO](https://youtu.be/HQozceVazhI) | ❌ N/A |
+| We'll Meet Again | [TheFatRat](https://www.youtube.com/c/TheFatRat)<br>[Laura Brehm](https://www.youtube.com/user/laurabrehm) | [Official Audio](https://youtu.be/hJqYc62NCKo)<br>[Official Lyric Video](https://youtu.be/FmZRu4VkV44) | _by_ [AsdKeys](https://youtu.be/L_uwufdfKLg) | ❌ N/A |
+| See You Again | [Wiz Khalifa](https://www.youtube.com/c/wizkhalifa)<br>[Charlie Puth](https://www.youtube.com/c/charlieputh) | [Official Music Video](https://youtu.be/RgKAFK5djSk) | _by_ [Cosmic PIANO](https://youtu.be/GBdqm09XWbQ) | ❌ N/A |
+| Melody | [Cadmium](https://www.youtube.com/c/Cadmiumsound)<br>[Jon Becker](https://www.youtube.com/c/JonBeckerOfficial) | [Official Audio (Cadmium)](https://youtu.be/9S5b4WlYV7s)<br>[Frequency Music Lyric Video](https://youtu.be/9MiFRbymQXQ) | _by_ [FMM Music](https://youtu.be/QwKbNj0OJSg)<br>_by_ [Allerlei von Nicolai - No Copyright Music](https://youtu.be/9PbxTdTkNnc) | ❌ N/A |
+| Symphony | [Clean Bandit](https://www.youtube.com/user/cleanbandit) | [Official Music Video](https://youtu.be/aatr_2MstrI) | _by_ [Cosmic PIANO](https://youtu.be/Lh8A9Pugwgw) | ❌ N/A |
+| Faded | [Alan Walker](https://www.youtube.com/c/Alanwalkermusic) | [Official Music Video](https://youtu.be/60ItHLz5WEA) | _by_ [Free Piano Tutorials](https://youtu.be/ADiGiK75FMM) | ✅ Available |
+| Skyline | [Kovan](https://www.youtube.com/c/itskovan)<br>[Electro-Light](https://www.youtube.com/c/ElectroLightOfficial) | [Official NCS Release](https://youtu.be/FseAiTb8Se0) | _by_ [AsdKeys](https://youtu.be/8MmOMEcZrz4) | ❌ N/A |
+| Roar | [Katy Perry](https://www.youtube.com/c/KatyPerry) | [Official Music Video](https://youtu.be/CevxZvSJLk8) | _by_ [Free Piano Tutorials](https://youtu.be/xOj7uhi3w80) | ✅ Available |
 
 # Contribute
 
