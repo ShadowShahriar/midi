@@ -1,6 +1,6 @@
 {
 	"name": "midi",
-	"version": "0.0.2",
+	"version": "1.0.0",
 	"description": "YouTube MIDI collection (freeware/shareware) for use in future projects.",
 	"main": "index.js",
 	"scripts": {
