@@ -13,7 +13,8 @@
 		"PIANO MIDI": "https://www.youtube.com/channel/UC3mb8-iIHpSEE8aCzMDgeTg",
 		"Piano Tutorial": "https://www.youtube.com/channel/UCMlZ4aOHBJnPGJAM5s-7b4w",
 		"BGP Harmony": "https://www.youtube.com/c/BGPHarmony",
-		"ShinkoNet": "https://www.youtube.com/c/ShinkoNet"
+		"ShinkoNet": "https://www.youtube.com/c/ShinkoNet",
+		"Neonix": "https://www.youtube.com/channel/UC2pDYeSPlJcemz1SMdhJ_rg"
 	},
 
 	"songs": [
@@ -387,6 +388,89 @@
 				"Free Piano Tutorials": ["https://youtu.be/xOj7uhi3w80", "by"]
 			},
 			"sheets": true
+		},
+		{
+			"title": "Calling",
+			"artists": {
+				"Tobu": "https://www.youtube.com/c/tobuofficial"
+			},
+			"source": {
+				"Official Audio": "https://youtu.be/xpEl02UnA3c"
+			},
+			"midi": {
+				"AsdKeys": ["https://youtu.be/2FeFGvxKYeQ", "by"]
+			},
+			"sheets": false
+		},
+		{
+			"title": "Summer Breeze",
+			"artists": {
+				"Tobu": "https://www.youtube.com/c/tobuofficial",
+				"Jordan Kelvin James": "https://soundcloud.com/jordankelvinjames"
+			},
+			"source": {
+				"Official Audio": "https://youtu.be/oQn-K3h_MfY"
+			},
+			"midi": {
+				"AsdKeys": ["https://youtu.be/CN_G21YPmIA", "by"]
+			},
+			"sheets": false
+		},
+		{
+			"title": "Sunburst",
+			"artists": {
+				"Tobu": "https://www.youtube.com/c/tobuofficial",
+				"Itro": "https://www.youtube.com/c/officialitro"
+			},
+			"source": {
+				"Official NCS Release": "https://youtu.be/4lXBHD5C8do"
+			},
+			"midi": {
+				"AsdKeys": ["https://youtu.be/Uvyw6d_O-pM", "by"]
+			},
+			"sheets": false
+		},
+		{
+			"title": "Cloud 9",
+			"artists": {
+				"Tobu": "https://www.youtube.com/c/tobuofficial",
+				"Itro": "https://www.youtube.com/c/officialitro"
+			},
+			"source": {
+				"Official NCS Release": "https://youtu.be/VtKbiyyVZks"
+			},
+			"midi": {
+				"AsdKeys": ["https://youtu.be/q6HM_Qoo85w", "by"]
+			},
+			"sheets": false
+		},
+		{
+			"title": "Make Me Move",
+			"artists": {
+				"Culture Code": "https://www.youtube.com/c/CultureCodeMusic",
+				"Karra": "https://www.youtube.com/c/iamkarramusic"
+			},
+			"source": {
+				"Official NCS Release": "https://youtu.be/vBGiFtb8Rpw"
+			},
+			"midi": {
+				"AsdKeys": ["https://youtu.be/7vlj8Jceiqo", "by"]
+			},
+			"sheets": false
+		},
+		{
+			"title": "Tropic Love",
+			"artists": {
+				"Diviners": "https://www.youtube.com/channel/UCgyvbgyRw1pVKOcOIxvB6qA",
+				"Contacreast": "https://www.youtube.com/user/DJContacreast"
+			},
+			"source": {
+				"Official NCS Release": "https://youtu.be/u6RJv7f__Mg"
+			},
+			"midi": {
+				"Neonix": ["https://youtu.be/BVgQCW087ak", "by"]
+			},
+			"sheets": false
 		}
 	]
 }
